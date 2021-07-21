@@ -27,3 +27,19 @@ The program was merely designed to showcase my abilities in the following:
 - Logical program structuring.
 - Basic DB creation which could be translated to a basic SQL DB.
 - Creating readable and collaborative-friendly code with sufficient notes that can be used by other programmers to understand the logic and reasoning of the code.
+#
+## EXAMPLE: Program running sucessfully without any errors.
+
+![1](https://user-images.githubusercontent.com/69165459/126515911-c2d2f94b-f671-4333-9881-07d8ab25cf22.jpg)
+#
+## EXAMPLE: User entering an invalid input, a programmed error message is displayed and the program resets.
+
+![2](https://user-images.githubusercontent.com/69165459/126516384-731d5256-376d-4d09-91b1-a9b554641030.jpg)
+#
+## EXAMPLE: The user is underage, a programmed error message is displayed and the program resets.
+
+![3](https://user-images.githubusercontent.com/69165459/126517003-175f9486-3d35-4659-b17f-414581a2f131.jpg)
+#
+## EXAMPLE: There aren't enough seats available, a programmed error message is displayed and the program resets.
+
+![4](https://user-images.githubusercontent.com/69165459/126517382-0a62c6aa-aa29-44af-8a14-960c2d24037d.jpg)
