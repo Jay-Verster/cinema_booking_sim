@@ -1,4 +1,4 @@
-## Coding by: Jay Verster | Date: 26/05/2021 | Python
+## Coding by: Jay Verster | Date: 26/05/2021
 
 ## Skills Displayed: Python Coding with Dictionaries, Lists and Loops | Database Creation | Basic Database Management
 
