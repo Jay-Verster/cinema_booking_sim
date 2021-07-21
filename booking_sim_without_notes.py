@@ -1,4 +1,4 @@
-## Coding by: Jay Verster | Date: 26/05/2021 | Python
+## Coding by: Jay Verster | Date: 26/05/2021
 
 # PROJECT: CINEMA BOOKING SIMULATOR
 
