@@ -28,6 +28,10 @@ The program was merely designed to showcase my abilities in the following:
 - Basic DB creation which could be translated to a basic SQL DB.
 - Creating readable and collaborative-friendly code with sufficient notes that can be used by other programmers to understand the logic and reasoning of the code.
 #
+## SNAPSHOT OF RAW CODE W/OUT NOTES
+
+![5](https://user-images.githubusercontent.com/69165459/126519360-df468109-c719-4e40-8335-5a5a1015274a.jpg)
+#
 ## EXAMPLE: Program running sucessfully without any errors.
 
 ![1](https://user-images.githubusercontent.com/69165459/126515911-c2d2f94b-f671-4333-9881-07d8ab25cf22.jpg)
